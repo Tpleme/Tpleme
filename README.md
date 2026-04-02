@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leandro Melo</h1>
 <h3 align="center">Big brain developer</h3>
 
-- 💬 Ask me about Web development, VR and how to tell if we're living in a simulation with bad CSS.
+- 💬 Ask me about Web development and VR.
 
-- 📫 Reach me by **tpleme@hotmail.com**, or by shouting "CSS" three times into a mirror at night.
+- 📫 Reach me by **tpleme@hotmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
